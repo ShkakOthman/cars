@@ -1,0 +1,46 @@
+.jumbotron{
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+.jumbotron div p{
+    font-size: 27px;
+    text-transform:capitalize;
+}
+.sectionPart p{
+    padding-top: 6%;
+    margin: 20px;
+}
+.sectionPart{
+  margin-right: 20px;
+}
+.card{
+    margin: auto;
+    text-align: center;
+
+}
+.phCenter{
+    display: block;
+padding: 10%;
+margin: auto;
+}
+.sectionLight{
+    margin: 20px;
+}
+.Paragraph{
+text-align: center;
+}
+.Yekam{
+    margin-top: 100px;
+}
+
+.footer{
+    background-color: #000000;
+}
+.h4{
+    color: gray;
+    margin-top: 30px;
+}
+.footer{
+    position: absolute;
+}
